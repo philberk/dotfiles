@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = philippedeandria12@hotmail.com
+	name = Philippe De Andria
